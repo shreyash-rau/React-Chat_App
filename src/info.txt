@@ -1,0 +1,23 @@
+App contain 
+mainly three pages 
+1. Login 
+2. Register
+3. Home 
+
+Inside Home Page we contain
+two main component 
+1. Sidebar
+2. Mainchat
+
+In Sidebar Component
+Sub-main component
+1. Navbar
+2. Search
+3. Chats
+
+In Mainchat Component
+Sub-main Component
+1. Mainchat (It self One Component)
+2. Messages --> Messages2 component
+3. Input
+

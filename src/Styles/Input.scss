@@ -1,0 +1,43 @@
+.input{
+    height: 50px;
+    background-color: aliceblue;
+    padding: 10px;
+    display: flex;
+    justify-content: space-between;
+    // align-items: center;
+    
+    input{
+        width: 100%;
+        border: none;
+        font-size:17px;
+        outline: none;
+
+    }
+
+    .send{
+      display: flex;
+      align-items: center;
+      gap: 15px;
+      height: 55px;
+      cursor: pointer;
+
+      label{
+        cursor: pointer;
+      }
+
+      button{
+        border: none;
+        padding: 10px;
+        color: white;
+        background-color: rgb(20, 177, 164);
+        font-weight: 700;
+        border-radius: 10px;
+        cursor: pointer;
+        &:hover{
+          background-color: red;
+          border:2px solid black;
+        }
+
+      }
+    }
+}

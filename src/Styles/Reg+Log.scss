@@ -1,0 +1,66 @@
+.container {
+    background-color: #7a94f3;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    .wrapper {
+      background-color: white;
+      padding: 40px 80px;
+      border-radius: 10px;
+      display: flex;
+      flex-direction: column;
+      gap: 10px;
+      align-items: center;
+       
+      .logo {
+        color: rgb(40, 153, 153);
+        font-weight: bold;
+        font-size: 30px;
+  
+      }
+  
+      .title {
+        color: #1209bd;
+        font-size: 15px;
+      }
+  
+      form {
+        display: flex;
+        flex-direction: column;
+        gap: 15px;
+        width: 100%;
+        
+        
+        input{
+            padding: 10px;
+            border: none;
+            border-bottom: 2px solid  rgb(40, 153, 153);
+        }
+        button{
+            padding: 10px;
+            color: white;
+            background-color:  rgb(40, 153, 153);
+            font-weight: bolder;
+            border-radius: 10px;
+            cursor: pointer;
+        }
+        label{
+            display: flex;
+            align-items: center;
+            gap: 10px;
+            cursor: pointer;
+            color: rgb(40, 153, 153);
+            img{
+                width: 40px;
+            } 
+        }
+        }
+
+        p{
+            margin-top: 20px;
+            font-size: 15px;
+            // color: red;
+        }
+    }
+}
