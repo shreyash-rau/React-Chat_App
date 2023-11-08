@@ -2,6 +2,15 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## u can watch this site on : https://react-chatting-app-sr.netlify.app/
+
+### some existing user are
+### Enter Email = Password
+### user1@gmail.com = shreyash
+### user2@gmail.com = shreyash
+### shreyash2@gmail.com = shreyash
+### shre2@gmail.com = shreyash
+
 ## Available Scripts
 
 In the project directory, you can run:
